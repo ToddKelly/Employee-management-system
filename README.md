@@ -14,7 +14,7 @@ Additionally, a schema file and seed SQL file are present in the repository can 
 
 ![Demo GIF](./Assets/Employee.gif)
 
-### Below is the GitHub repository for Employee Management Syastem
+### Below is the GitHub repository for Employee Management System
 
 
 https://toddkelly.github.io/Employee-management-system/
