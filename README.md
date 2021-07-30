@@ -8,4 +8,11 @@ Additionally, a schema file and seed SQL file are present in the repository can 
 
 ### Below are screenshots of the deplyed application:
 
+![Demo .png](./Assets/employee.png)
+
+### Below is a demo of the application:
+
+![Demo GIF](./Assets/team-Profile-Generator.gif)
+
+### Below is the GitHub repository for Employee Tracker
 
