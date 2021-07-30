@@ -1,4 +1,4 @@
-# Employee Tracker
+# Employee Management Syastem
 
 ## Developement
 
@@ -12,7 +12,9 @@ Additionally, a schema file and seed SQL file are present in the repository can 
 
 ### Below is a demo of the application:
 
-![Demo GIF](./Assets/team-Profile-Generator.gif)
+![Demo GIF](./Assets/Employee.gif)
 
-### Below is the GitHub repository for Employee Tracker
+### Below is the GitHub repository for Employee Management Syastem
+
+
 
